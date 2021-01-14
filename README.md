@@ -1,6 +1,8 @@
+<h3 align="left">
+Hi there, I'm MoonJoo Eom 😁
+</h3>  
 
-
-<h3><p align="left" >Tech Stack 🛠</p></h3>
+<h3 align="left">Tech Stack 🛠</h3>
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
@@ -19,7 +21,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" /></a>
 </p>
 
-<h3><p align="left">Contact 📞</p></h3>
+<h3 align="left">Contact 📞</h3>
 
 <p align="left">
 <a href="https://velog.io/@eommoonjoo"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a>
