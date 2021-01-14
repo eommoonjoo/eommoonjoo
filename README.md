@@ -28,8 +28,8 @@
 <h3><p align="left">Contact 📞</p></h3>
 
 <p align="left">
-<a href="https://velog.io/@eommoonjoo"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a/><a href="mailto:eommoonjoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
+<a href="https://velog.io/@eommoonjoo"><img src="https://img.shields.io/badge/Velog-00B336?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+<a/><a href="mailto:eommoonjoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a></a>
 
 </p>
 
