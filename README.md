@@ -22,7 +22,7 @@ Hi there, I'm MoonJoo Eom 😁
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" /></a>
 </p> -->
 
-<h3 align="left">Contact 📞</h3>
+<!-- <h3 align="left">Contact 📞</h3> -->
 
 <p align="left">
 <a href="https://velog.io/@eommoonjoo"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a>
