@@ -4,7 +4,7 @@ Hi there, I'm MoonJoo Eom 😁
 
 <h3 align="left">Tech Stack 🛠</h3>
 
-<p align="left">
+<!-- <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
@@ -20,7 +20,7 @@ Hi there, I'm MoonJoo Eom 😁
 <img src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Contact 📞</h3>
 
