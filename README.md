@@ -22,13 +22,3 @@ Hi there, I'm MoonJoo Eom 😁
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" /></a>
 </p> -->
 
-<!-- <h3 align="left">Contact 📞</h3> -->
-
-<p align="left">
-<a href="https://velog.io/@eommoonjoo"><img src="https://img.shields.io/badge/Velog-00B336?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a/><a href="mailto:eommoonjoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
-
-</p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feommoonjoo%2Fhit-counter)](https://hits.seeyoufarm.com)                 
-
